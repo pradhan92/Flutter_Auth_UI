@@ -1,4 +1,4 @@
-# demo_ecomm
+# Flutter_Auth_UI
 
 A new Flutter project.
 
